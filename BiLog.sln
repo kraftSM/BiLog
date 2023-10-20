@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiLog", "BiLog\BiLog.csproj", "{3B1C34B4-06C8-49B2-9A76-57AE08DA8207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilog.Repo", "Bilog.Repo\Bilog.Repo.csproj", "{66B59806-C4D3-417C-8BF7-2E30B5607408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiLog.VwML", "BiLog.VwML\BiLog.VwML.csproj", "{870B19E1-12E3-4266-9589-94B0C12D5A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiLog.BcLL", "BiLog.BcLL\BiLog.BcLL.csproj", "{BDA1214F-AC43-4E88-9FD2-660AA34A6553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B1C34B4-06C8-49B2-9A76-57AE08DA8207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1C34B4-06C8-49B2-9A76-57AE08DA8207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1C34B4-06C8-49B2-9A76-57AE08DA8207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1C34B4-06C8-49B2-9A76-57AE08DA8207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B59806-C4D3-417C-8BF7-2E30B5607408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B59806-C4D3-417C-8BF7-2E30B5607408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B59806-C4D3-417C-8BF7-2E30B5607408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B59806-C4D3-417C-8BF7-2E30B5607408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870B19E1-12E3-4266-9589-94B0C12D5A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870B19E1-12E3-4266-9589-94B0C12D5A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870B19E1-12E3-4266-9589-94B0C12D5A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870B19E1-12E3-4266-9589-94B0C12D5A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA1214F-AC43-4E88-9FD2-660AA34A6553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA1214F-AC43-4E88-9FD2-660AA34A6553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA1214F-AC43-4E88-9FD2-660AA34A6553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA1214F-AC43-4E88-9FD2-660AA34A6553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8206FC86-862E-4056-8AFB-F8AAC706CA85}
+	EndGlobalSection
+EndGlobal
